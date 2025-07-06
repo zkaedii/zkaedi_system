@@ -1,0 +1,1 @@
+# PowerShell start script for Spellcheck_And_DocsSystem

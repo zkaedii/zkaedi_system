@@ -1,0 +1,1 @@
+# PowerShell start script for Zkaedi_BadgeVault
